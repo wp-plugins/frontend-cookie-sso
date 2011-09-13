@@ -2,7 +2,7 @@
 Contributors: tott, automattic
 Tags: sso, sso cookie, single sign on, commenting, comments
 Donate link: http://hitchhackerguide.com
-Tested up to: 3.1.3
+Tested up to: 3.2.1
 Stable tag: trunk
 
 This plugin lets you implement a cookie based front-end authorization system that can be used (for example) to allow users who are logged in via an system to comment on your site.
